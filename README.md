@@ -12,11 +12,11 @@ George-Gabriel brings a strategic vision and deep knowledge of DevOps practices 
 **Role:** Lead Architect Backend Solutions  
 Valentin is the backbone of our backend development team. His expertise in designing scalable and robust backend systems has been integral to our success. Valentin ensures our software architectures are both innovative and future-proof, keeping CSIZ Labs at the forefront of backend solutions.
 
-### Adrian Zamfir
+### Zamfir Adrian-Iulian
 **Role:** Lead DevOps / Infrastructure Engineer  
 Adrian specializes in designing and managing our infrastructure, bringing a high level of efficiency and security to our operations. His extensive experience in DevOps and infrastructure engineering allows us to deploy, monitor, and maintain systems that support our projects reliably.
 
-### Iamandi Andrei
+### Iamandi Andrei-Petrisor
 **Role:** Lead DevOps / Software Engineering  
 Andrei bridges the gap between DevOps and software development. His dual focus ensures that our DevOps pipelines are optimized for the unique needs of our software projects, enhancing both productivity and quality.
 
